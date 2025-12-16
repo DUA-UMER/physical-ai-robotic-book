@@ -1,1 +1,2 @@
-# physical-ai-robotic-book
+# Physical AI & Humanoid Robotics Textbook
+
